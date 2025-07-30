@@ -1,7 +1,8 @@
 import type { Meta, StoryObj } from "@storybook/react-vite";
+
 import { Task } from "./Task";
 
-const meta: Meta = {
+const meta = {
   component: Task,
   title: "Task",
   globals: {

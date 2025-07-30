@@ -14,7 +14,6 @@ const preview: Preview = {
       // 'off' - skip a11y checks entirely
       test: "todo",
     },
-
     backgrounds: {
       options: {
         dark: { name: "Dark", value: "#293c53db" },
@@ -22,7 +21,7 @@ const preview: Preview = {
       },
     },
   },
-  /*   initialGlobals: {
+  /*  initialGlobals: {
     backgrounds: { value: "Dark" },
   }, */
 };
